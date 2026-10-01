@@ -1,0 +1,12 @@
+{
+  "name": "stremio-ultra-p2p",
+  "version": "1.0.0",
+  "description": "Zero-buffer high-speed P2P streamer for Stremio",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^3.0.0"
+  }
+}
